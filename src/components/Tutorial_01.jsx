@@ -20,7 +20,10 @@ const Tutorial_01 = () => {
           <Typography variant="h6">Tutorial Filtrar Equipas</Typography>
         </Box>
         <video width="750" height="500" controls>
-          <source src="/cavateco_monitoring_equipas.mp4" type="video/mp4" />
+          <source
+            src="https://primaterra.terrafirma.co.mz:444/support_videos/cavateco_monitoring_equipas.mp4"
+            type="video/mp4"
+          />
         </video>
       </Box>
       <Box>
@@ -29,7 +32,7 @@ const Tutorial_01 = () => {
         </Box>
         <video width="750" height="500" controls>
           <source
-            src="/monitoring_encontros_date_filtering.mp4"
+            src="https://primaterra.terrafirma.co.mz:444/support_videos/monitoring_encontros_date_filtering.mp4"
             type="video/mp4"
           />
         </video>
@@ -46,7 +49,7 @@ const Tutorial_01 = () => {
         </Box>
         <video width="750" height="500" controls>
           <source
-            src="/monitoring_encontros_multiple_filtering.mp4"
+            src="https://primaterra.terrafirma.co.mz:444/support_videos/monitoring_encontros_multiple_filtering.mp4"
             type="video/mp4"
           />
         </video>
